@@ -116,3 +116,23 @@ C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\Bus\obj\Debug\BUS.vbproj.CoreCompileInputs
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\Bus\obj\Debug\Bus.dll
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\Bus\obj\Debug\Bus.xml
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\Bus\obj\Debug\Bus.pdb
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\Bus.dll.config
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\Bus.dll
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\Bus.pdb
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\Bus.xml
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DAL.dll.config
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\Bus\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\Bus.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\BUS.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\BUS.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\BUS.vbproj.CopyComplete
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\Bus.dll
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\Bus.xml
+E:\Linh tinh\SavedProject\NhaSach\Bus\obj\Debug\Bus.pdb

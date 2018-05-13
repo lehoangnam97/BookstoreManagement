@@ -192,3 +192,36 @@ C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.vbproj.CoreCompileInputs
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.exe
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.xml
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.exe.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.exe
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.dll
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.dll.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.dll.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.LienHe.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.LoginForm.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuBaoCao.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuTraCuu.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbproj.CopyComplete
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.exe
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.pdb

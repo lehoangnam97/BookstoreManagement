@@ -16,6 +16,7 @@ Public Class functionToUse
 
     Public Shared Sub CreateConnect()
         Dim strConnect As String = "Data Source=" + SystemInformation.ComputerName + "\SQLEXPRESS;Initial Catalog=QLTV;Integrated Security=True"
+
         If (sqlCon.State = ConnectionState.Open) Then
             sqlCon.Close()
         End If

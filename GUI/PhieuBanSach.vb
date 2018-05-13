@@ -23,8 +23,8 @@ Public Class PhieuBanSach
 
         LoadDataGrid()
         'Tao gia tri mac dinh khi form load
-        txtNgayLap.Text = Date.Today.ToShortDateString.Substring(2, 8)
-        txtNgay.Text = Date.Today.ToShortDateString.Substring(0, 2)
+        txtNgayLap.Text = "/" + DateTime.Now.ToString("MM/yyyy")
+        txtNgay.Text = DateTime.Now.Day.ToString
         txtMaPhieuBan.Text = functionToUse.CreatePrimaryKey("hoadon", "mahoadon", "MHD", 0)
         dgvHD.AutoGenerateColumns = False
         isFinishInit = True

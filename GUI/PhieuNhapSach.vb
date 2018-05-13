@@ -26,8 +26,8 @@ Public Class PhieuNhapSach
 
         LoadDataGrid()
         'Tao gia tri mac dinh khi form load
-        txtNgayLap.Text = Date.Today.ToShortDateString.Substring(2, 8)
-        txtNgay.Text = Date.Today.ToShortDateString.Substring(0, 2)
+        txtNgayLap.Text = "/" + DateTime.Now.ToString("MM/yyyy")
+        txtNgay.Text = DateTime.Now.Day.ToString
         txtMaPhieuNhap.Text = functionToUse.CreatePrimaryKey("phieunhapsach", "maphieunhap", "MPN", 0)
         txtMaSach.Text = functionToUse.CreatePrimaryKey("sach", "masach", "MS", 0)
         txtSoLuongNhap.Text = "0"

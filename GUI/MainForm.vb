@@ -20,12 +20,12 @@ Public Class MainForm
         Me.WindowState = FormWindowState.Maximized
 
         'Ẩn tính năng khi chưa đang nhập
-        'pnlInfo.Hide()
-        'btnPhieuBaoCao.Hide()
-        'btnPhieuThuTien.Hide()
-        'btnPhieuNhapSach.Hide()
-        'btnChinhSuaQuyDinh.Hide()
-        'btnPhieuBanSach.Hide()
+        pnlInfo.Hide()
+        btnPhieuBaoCao.Hide()
+        btnPhieuThuTien.Hide()
+        btnPhieuNhapSach.Hide()
+        btnChinhSuaQuyDinh.Hide()
+        btnPhieuBanSach.Hide()
 
     End Sub
 
@@ -181,7 +181,6 @@ Public Class MainForm
         If (dlgResult = DialogResult.OK) Then
             lblID.Text = "ID: " + login.username
 
-
             Select Case login.intLevel
                 Case 1
                     lblLevel.Text = "Job: Nhân viên"
@@ -189,6 +188,7 @@ Public Class MainForm
                     btnPhieuThuTien.Show()
                     btnPhieuBaoCao.Show()
                     picAvartar.Image = New Bitmap(My.Resources.imgEmployee)
+
                 Case 2
                     lblLevel.Text = "Job: Quản lí"
                     btnPhieuNhapSach.Show()
@@ -200,6 +200,9 @@ Public Class MainForm
                 Case 4
                     lblLevel.Text = "Job: Admin"
                     picAvartar.Image = New Bitmap(My.Resources.imgAdmin)
+
+                Case Else
+                    btnPhieuTraCuu.Show()
 
             End Select
 

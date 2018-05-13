@@ -8,8 +8,6 @@ Namespace DAL
 
     Public Class BaoCaoTonDAL
 
-
-
         Public Shared Function insertBaoCaoTon(bct As BaoCaoTonDTO) As Integer
             Dim query As String = String.Empty
             query = String.Format("insert into baocaoton(maton,masach,thang,tondau,tonphatsinh,toncuoi) values('{0}','{1}',{2},{3},{4},{5})", bct.MaTon, bct.MaSach, bct.Thang, bct.TonDau, bct.TonPhatSinh, bct.TonCuoi)

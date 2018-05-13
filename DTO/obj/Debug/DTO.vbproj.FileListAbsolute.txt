@@ -57,3 +57,14 @@ C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.dll
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.xml
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.pdb

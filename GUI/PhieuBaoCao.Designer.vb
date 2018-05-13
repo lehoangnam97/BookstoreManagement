@@ -29,10 +29,10 @@ Partial Class PhieuBaoCao
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.TableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
-        Me.btnIn = New System.Windows.Forms.Button()
-        Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.cbbNam = New System.Windows.Forms.ComboBox()
+        Me.btnIn = New System.Windows.Forms.Button()
+        Me.Panel1 = New System.Windows.Forms.Panel()
         CType(Me.dgvBaoCao, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -146,33 +146,6 @@ Partial Class PhieuBaoCao
         Me.TableLayoutPanel1.Size = New System.Drawing.Size(318, 100)
         Me.TableLayoutPanel1.TabIndex = 6
         '
-        'btnIn
-        '
-        Me.btnIn.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.btnIn.BackColor = System.Drawing.Color.FromArgb(CType(CType(172, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(250, Byte), Integer))
-        Me.btnIn.Enabled = False
-        Me.btnIn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(172, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(250, Byte), Integer))
-        Me.btnIn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(CType(CType(6, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(240, Byte), Integer))
-        Me.btnIn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(6, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(240, Byte), Integer))
-        Me.btnIn.Font = New System.Drawing.Font("Candara", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.btnIn.Location = New System.Drawing.Point(273, 441)
-        Me.btnIn.Name = "btnIn"
-        Me.btnIn.Size = New System.Drawing.Size(206, 39)
-        Me.btnIn.TabIndex = 7
-        Me.btnIn.Text = "In Báo Cáo"
-        Me.btnIn.UseVisualStyleBackColor = False
-        '
-        'Panel1
-        '
-        Me.Panel1.BackColor = System.Drawing.Color.White
-        Me.Panel1.Controls.Add(Me.Label1)
-        Me.Panel1.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Panel1.Location = New System.Drawing.Point(0, 0)
-        Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(726, 92)
-        Me.Panel1.TabIndex = 8
-        '
         'Label4
         '
         Me.Label4.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
@@ -200,6 +173,33 @@ Partial Class PhieuBaoCao
         Me.cbbNam.Name = "cbbNam"
         Me.cbbNam.Size = New System.Drawing.Size(153, 33)
         Me.cbbNam.TabIndex = 9
+        '
+        'btnIn
+        '
+        Me.btnIn.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.btnIn.BackColor = System.Drawing.Color.FromArgb(CType(CType(172, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(250, Byte), Integer))
+        Me.btnIn.Enabled = False
+        Me.btnIn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(172, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(250, Byte), Integer))
+        Me.btnIn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(CType(CType(6, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.btnIn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(6, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.btnIn.Font = New System.Drawing.Font("Candara", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.btnIn.Location = New System.Drawing.Point(273, 441)
+        Me.btnIn.Name = "btnIn"
+        Me.btnIn.Size = New System.Drawing.Size(206, 39)
+        Me.btnIn.TabIndex = 7
+        Me.btnIn.Text = "In Báo Cáo"
+        Me.btnIn.UseVisualStyleBackColor = False
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.White
+        Me.Panel1.Controls.Add(Me.Label1)
+        Me.Panel1.Dock = System.Windows.Forms.DockStyle.Top
+        Me.Panel1.Location = New System.Drawing.Point(0, 0)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(726, 92)
+        Me.Panel1.TabIndex = 8
         '
         'PhieuBaoCao
         '

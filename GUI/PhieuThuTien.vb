@@ -14,8 +14,8 @@ Public Class PhieuThuTien
     Private Sub PhieuThuTien_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
         'Giá trị mặc định textbox
-        txtNgayLap.Text = Date.Today.ToShortDateString.Substring(2, 8)
-        txtNgay.Text = Date.Today.ToShortDateString.Substring(0, 2)
+        txtNgayLap.Text = "/" + DateTime.Now.ToString("MM/yyyy")
+        txtNgay.Text = DateTime.Now.Day.ToString
         txtMaPhieuThu.Text = functionToUse.CreatePrimaryKey("phieuthutien", "maphieuthu", "MPT", 0)
 
         ReFreshDataKH()

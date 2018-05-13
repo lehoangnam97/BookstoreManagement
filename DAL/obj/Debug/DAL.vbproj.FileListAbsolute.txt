@@ -92,3 +92,19 @@ C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.dll
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.xml
 C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbproj.CopyComplete
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.pdb
