@@ -1,7 +1,6 @@
 ﻿Imports System.Globalization
 
 Public Class MainForm
-
     Private intlevel As Integer
     Protected Overrides Sub OnLoad(e As EventArgs)
 
@@ -158,6 +157,10 @@ Public Class MainForm
 
         Dim dlgResult = MessageBox.Show("Do you want to exit now ? ", "Exit", MessageBoxButtons.YesNo)
         If (dlgResult = DialogResult.Yes) Then
+
+
+
+
             pnlInfo.Hide()
             btnPhieuBaoCao.Hide()
             btnPhieuThuTien.Hide()
@@ -169,7 +172,6 @@ Public Class MainForm
     End Sub
 
     Private Sub ButtonLienHe_Click(sender As Object, e As EventArgs) Handles btnLienHe.Click
-
         Dim formContact As New LienHe
         formContact.Show()
 
@@ -180,7 +182,7 @@ Public Class MainForm
         Dim dlgResult = login.ShowDialog()
         If (dlgResult = DialogResult.OK) Then
             lblID.Text = "ID: " + login.username
-
+            ReChooseButton()
             Select Case login.intLevel
                 Case 1
                     lblLevel.Text = "Job: Nhân viên"
