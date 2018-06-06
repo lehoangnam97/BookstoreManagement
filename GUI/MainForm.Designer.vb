@@ -25,12 +25,14 @@ Partial Class MainForm
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MainForm))
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.pnlInfo = New System.Windows.Forms.Panel()
+        Me.picAvartar = New System.Windows.Forms.PictureBox()
         Me.lblLevel = New System.Windows.Forms.Label()
         Me.lblID = New System.Windows.Forms.Label()
         Me.btnSignOut = New System.Windows.Forms.Button()
         Me.btnLogin = New System.Windows.Forms.Button()
         Me.PanelTitle = New System.Windows.Forms.Panel()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.TableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
         Me.btnClose = New System.Windows.Forms.Button()
         Me.btnMiniMize = New System.Windows.Forms.Button()
@@ -48,18 +50,16 @@ Partial Class MainForm
         Me.btnPhieuThuTien = New System.Windows.Forms.Button()
         Me.btnPhieuBaoCao = New System.Windows.Forms.Button()
         Me.btnChinhSuaQuyDinh = New System.Windows.Forms.Button()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.picAvartar = New System.Windows.Forms.PictureBox()
         Me.Panel1.SuspendLayout()
         Me.pnlInfo.SuspendLayout()
+        CType(Me.picAvartar, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.PanelTitle.SuspendLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.TablePanelTop.SuspendLayout()
         Me.PanelMenuStrip.SuspendLayout()
         Me.PanelIntro.SuspendLayout()
         Me.PanelButton.SuspendLayout()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.picAvartar, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Panel1
@@ -85,6 +85,15 @@ Partial Class MainForm
         Me.pnlInfo.Name = "pnlInfo"
         Me.pnlInfo.Size = New System.Drawing.Size(223, 81)
         Me.pnlInfo.TabIndex = 10
+        '
+        'picAvartar
+        '
+        Me.picAvartar.Location = New System.Drawing.Point(4, 4)
+        Me.picAvartar.Name = "picAvartar"
+        Me.picAvartar.Size = New System.Drawing.Size(74, 74)
+        Me.picAvartar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.picAvartar.TabIndex = 13
+        Me.picAvartar.TabStop = False
         '
         'lblLevel
         '
@@ -167,9 +176,19 @@ Partial Class MainForm
         Me.Label1.Font = New System.Drawing.Font("Candara", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.Label1.Location = New System.Drawing.Point(53, 6)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(222, 19)
+        Me.Label1.Size = New System.Drawing.Size(227, 19)
         Me.Label1.TabIndex = 15
-        Me.Label1.Text = "PHẦN MỀM QUẢN LÝ THƯ VIỆN"
+        Me.Label1.Text = "PHẦN MỀM QUẢN LÝ NHÀ SÁCH"
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = Global.GUI.My.Resources.Resources.LogoCNPM
+        Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(47, 40)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 14
+        Me.PictureBox1.TabStop = False
         '
         'TableLayoutPanel1
         '
@@ -482,25 +501,6 @@ Partial Class MainForm
         Me.btnChinhSuaQuyDinh.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnChinhSuaQuyDinh.UseVisualStyleBackColor = False
         '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = Global.GUI.My.Resources.Resources.LogoCNPM
-        Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(47, 40)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 14
-        Me.PictureBox1.TabStop = False
-        '
-        'picAvartar
-        '
-        Me.picAvartar.Location = New System.Drawing.Point(4, 4)
-        Me.picAvartar.Name = "picAvartar"
-        Me.picAvartar.Size = New System.Drawing.Size(74, 74)
-        Me.picAvartar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.picAvartar.TabIndex = 13
-        Me.picAvartar.TabStop = False
-        '
         'MainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -522,16 +522,16 @@ Partial Class MainForm
         Me.Panel1.ResumeLayout(False)
         Me.pnlInfo.ResumeLayout(False)
         Me.pnlInfo.PerformLayout()
+        CType(Me.picAvartar, System.ComponentModel.ISupportInitialize).EndInit()
         Me.PanelTitle.ResumeLayout(False)
         Me.PanelTitle.PerformLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TableLayoutPanel1.ResumeLayout(False)
         Me.TablePanelTop.ResumeLayout(False)
         Me.PanelMenuStrip.ResumeLayout(False)
         Me.PanelIntro.ResumeLayout(False)
         Me.PanelIntro.PerformLayout()
         Me.PanelButton.ResumeLayout(False)
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.picAvartar, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

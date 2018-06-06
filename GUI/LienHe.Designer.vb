@@ -32,7 +32,7 @@ Partial Class LienHe
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.PictureBox1.Image = Global.GUI.My.Resources.Resources.backgroundIntroduce1
-        Me.PictureBox1.Location = New System.Drawing.Point(-4, 0)
+        Me.PictureBox1.Location = New System.Drawing.Point(2, -27)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(773, 438)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
